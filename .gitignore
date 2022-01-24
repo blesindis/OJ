@@ -1,0 +1,4 @@
+*.txt
+*.out
+/a.out
+try.c
